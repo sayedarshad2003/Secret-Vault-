@@ -1,0 +1,6 @@
+{
+  "name": "AegisVault - Local Zero-Knowledge Password Manager",
+  "description": "A privacy-first, local-only zero-knowledge password manager powered by Web Crypto API and IndexedDB with client-side AES-256-GCM encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
